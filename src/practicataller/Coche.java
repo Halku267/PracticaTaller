@@ -12,6 +12,7 @@ public class Coche {
     private Rueda ruedaTD;
     private Puerta puertaI;
     private Puerta puertaD;
+    private static final String prueba;
     
     // Constructor
     public Coche() {
